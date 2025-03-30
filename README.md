@@ -20,5 +20,5 @@ This is a simple web project that implements a **Light & Dark Mode** switch usin
 
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/Light-Dark-Mode.git
+   git clone https://github.com/Khairul25556/Light-Dark-Mode.git
 
